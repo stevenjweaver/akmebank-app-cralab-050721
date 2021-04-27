@@ -72,5 +72,5 @@ kubectl run --generator=run-pod/v1  cli --rm -it --image us.icr.io/paolo/account
 AKME Terraform configuration for Cloud infrastructure. 
 
 
-![AKME Architecture](https://github.com/stevenjweaver/akmebank-app/AKME_arch1.png)
+![AKME Architecture](https://github.com/stevenjweaver/akmebank-app/blob/main/AKME_arch1.png)
 
